@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python=3.6
   - basemap==1.2.0
+  - proj4
   - pip:
     - scikit-learn==0.20.1
     - numpy==1.15.4
